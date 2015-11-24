@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SINGLE_UPLOAD_FAILED_TEXT">"‏‮Couldn‬‏'‏‮t‬‏ ‏‮add‬‏ ‏‮photo‬‏ ‏‮to‬‏ ‏‮Maps‬‏"</string>
+    <string name="UPLOAD_COMPLETE_TEXT">‏‮Tap‬‏ ‏‮to‬‏ ‏‮view‬‏</string>
+</resources>

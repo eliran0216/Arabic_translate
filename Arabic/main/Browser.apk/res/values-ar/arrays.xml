@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_homepage_choices">
+        <item>الصفحة الحالية</item>
+        <item>صفحة فارغة</item>
+        <item>الصفحة الافتراضية</item>
+        <item>المواقع الأكثر زيارة</item>
+        <item>آخر</item>
+    </string-array>
+</resources>

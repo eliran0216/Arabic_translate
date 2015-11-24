@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>حانة</item>
+        <item>مقهى</item>
+        <item>محطة وقود</item>
+        <item>سينما</item>
+        <item>سكن</item>
+        <item>ملهى ليلي</item>
+        <item>متحف</item>
+        <item>مطعم</item>
+        <item>مركز تسوق</item>
+        <item>متجر</item>
+        <item>متجر بقالة أو سوبر ماركت</item>
+        <item>غير ذلك</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ضعيفة</item>
+        <item>معقولة</item>
+        <item>جيدة</item>
+        <item>قوية</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>البلوتوث</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>كانون الثاني (يناير)</item>
+        <item>شباط (فبراير)</item>
+        <item>آذار (مارس)</item>
+        <item>نيسان (أبريل)</item>
+        <item>أيار (مايو)</item>
+        <item>حزيران (يونيو)</item>
+        <item>تموز (يوليو)</item>
+        <item>آب (أغسطس)</item>
+        <item>أيلول (سبتمبر)</item>
+        <item>تشرين الأول (أكتوبر)</item>
+        <item>تشرين الثاني (نوفمبر)</item>
+        <item>كانون الأول (ديسمبر)</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="location_sharing_share_duration_array">
+        <item>15 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>ساعة واحدة</item>
+        <item>8 ساعات</item>
+        <item>إلى ما لا نهاية</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>اختيار سؤال أمان</item>
+        <item>ما رقم أول هاتف؟</item>
+        <item>ما اسم أفضل صديق من أصدقاء الطفولة؟</item>
+        <item>ما اسم أول معلم؟</item>
+        <item>ما اسم مديرك في أول وظيفة؟</item>
+        <item>ما رقم تسجيل المركبة؟</item>
+    </string-array>
+</resources>

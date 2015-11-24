@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">البحث في الجهاز اللوحي</string>
+    <string name="corpus_name_summons">الجهاز اللوحي</string>
+    <string name="search_sources">البحث في الجهاز اللوحي</string>
+    <string name="no_summons_found">"لم يتم العثور على نتائج 
+على جهازك اللوحي."</string>
+    <string name="hands_free_unlock_device">‏لإجراء بحث صوتي من Google، يُرجى إلغاء قفل جهازك اللوحي.</string>
+    <string name="icing_manage_storage_summary">نعمل على الإسراع من وتيرة البحث على جهازك اللوحي من خلال توفير محرك بحث لتطبيقاتك.</string>
+</resources>

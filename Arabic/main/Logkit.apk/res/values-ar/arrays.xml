@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_edit_item">
+        <item>تحرير</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="log_type">
+        <item>واجهة المستخدم</item>
+        <item>هاتفي</item>
+        <item>خدمة البيانات</item>
+        <item>الموقع</item>
+        <item>الوسائط المتعددة</item>
+        <item>الكاميرا</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>الصوت FM</item>
+        <item>PowerBatt</item>
+        <item>أعطال</item>
+        <item>آخر</item>
+    </string-array>
+    <string-array name="upload_mode_entries">
+        <item>إنتاج</item>
+        <item>نمو</item>
+        <item>اختبار</item>
+    </string-array>
+    <string-array name="upload_mode_values">
+        <item>production</item>
+        <item>development</item>
+        <item>testing</item>
+    </string-array>
+    <string-array name="log_server_entries">
+        <item>سان دييجو</item>
+        <item>شانغهاي</item>
+        <item>Ftp (بروتوكول نقل الملفات)</item>
+    </string-array>
+    <string-array name="log_server_values">
+        <item>https://qrdlog.qualcomm.com</item>
+        <item>https://qrd-dm.qualcomm.com</item>
+        <item>FtpServer</item>
+    </string-array>
+    <string-array name="upload_phase">
+        <item>FUT</item>
+        <item>اختبار حقل ESG</item>
+        <item>اختبار حقل CleNET</item>
+        <item>مجموعة UX</item>
+        <item>Loc Tech</item>
+        <item>FUT-QIPL</item>
+        <item>اختبار حقل Vivo</item>
+    </string-array>
+    <string-array name="load_profile_entries">
+        <item>محلي</item>
+        <item>بعيد</item>
+    </string-array>
+    <string-array name="runtime_entries">
+        <item>تشغيل</item>
+        <item>إيقاف التشغيل</item>
+    </string-array>
+    <string-array name="runtime_values">
+        <item>تشغيل</item>
+        <item>إيقاف التشغيل</item>
+    </string-array>
+</resources>
